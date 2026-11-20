@@ -1,1 +1,1 @@
-# Three-Class-Forensic-Classification-of-Anime-Images-
+# Three-Class-Forensic-Classification-of-Anime-Images
