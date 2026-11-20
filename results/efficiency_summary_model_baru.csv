@@ -1,0 +1,7 @@
+model,condition,total_parameters,gflops,total_inference_time_sec,latency_ms_per_image,throughput_images_per_sec,peak_gpu_vram_mb,baseline_ram_mb,peak_ram_mb,peak_ram_delta_mb
+tf_efficientnetv2_s,test_in_domain,20181331,2.873,81.436,54.29,18.42,313.49,1563.29,1616.36,53.06
+coatnet_nano_rw_224,test_in_domain,14629783,2.292,84.1231,56.08,17.83,304.62,1548.96,1549.34,0.38
+swin_tiny,test_in_domain,27521661,4.508,71.0138,47.34,21.12,618.68,1103.55,1103.9,0.34
+convnext_tiny,test_in_domain,27822435,4.47,47.1822,31.45,31.79,499.18,925.12,925.18,0.06
+maxvit_tiny,test_in_domain,30405067,5.421,43.1259,28.75,34.78,913.25,886.23,887.48,1.25
+cvt_21,test_in_domain,31238851,7.206,42.0865,28.06,35.64,946.79,862.52,878.74,16.22
